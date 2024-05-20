@@ -1,0 +1,51 @@
+@import url('https://fonts.cdnfonts.com/css/chomsky');
+
+body{
+    background-image: url("../img/backgd.jpg");
+    background-size:cover;
+}
+
+a:link{
+    color:brown;
+}
+a:visited{
+    color:brown;
+}
+a:hover{
+    color:black;
+}
+
+.titulo{
+    
+    font-family:'Chomsky',sans-serif;
+    font-size:100px;
+}
+
+.since{
+    font-family:'Chomsky',sans-serif;
+    font-size:15px;
+}
+
+.tabela{
+    color:black;
+    font-family:'Times New Roman', Times, serif;
+    text-transform:uppercase;
+}
+
+.manchete{
+    color:black;
+    font-family:'Times New Roman', Times, serif;
+    text-transform:uppercase;
+    font-weight:bold;
+    font-size:30px
+}
+
+.texto{
+    color:black;
+    font-family:'Times New Roman', Times, serif;
+    font-size:20px;
+}
+
+.contatos{
+    color:black;
+}
