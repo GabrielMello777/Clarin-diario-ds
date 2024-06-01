@@ -30,6 +30,7 @@ a:hover{
     color:black;
     font-family:'Times New Roman', Times, serif;
     text-transform:uppercase;
+    text-decoration: none;
 }
 
 .manchete{
