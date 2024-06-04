@@ -50,3 +50,8 @@ a:hover{
 .contatos{
     color:black;
 }
+
+body{
+    background-image: url(../Imagens/backgd.jpg);
+
+}
